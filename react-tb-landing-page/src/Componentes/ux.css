@@ -1,0 +1,8 @@
+
+.caja5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid;
+    flex-direction: row;
+}

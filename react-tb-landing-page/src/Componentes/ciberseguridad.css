@@ -1,0 +1,27 @@
+.caja{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border: 1px solid;
+    width: 300px;
+}
+
+h2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+    
+}
+
+.minicontainer{
+
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+.parrafo{
+    display: flex;
+    flex-wrap: wrap;
+    
+}

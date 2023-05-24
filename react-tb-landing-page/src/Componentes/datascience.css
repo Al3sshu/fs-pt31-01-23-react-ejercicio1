@@ -1,0 +1,26 @@
+.caja1{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: 1px solid;
+    width: 300px;
+
+    
+}
+
+h1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+
+h2{
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    
+    
+    
+}

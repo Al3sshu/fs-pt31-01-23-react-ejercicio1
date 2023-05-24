@@ -1,0 +1,24 @@
+.caja3{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    border:1px solid;
+    width: 300px;
+}
+
+.texto2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}*/
+h2{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}

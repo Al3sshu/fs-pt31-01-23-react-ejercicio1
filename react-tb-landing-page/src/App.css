@@ -1,0 +1,106 @@
+
+
+
+.Navbar{
+    align-items: center;
+    display:flex;
+    flex-direction: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-right:5px;
+    padding: 5px;
+    gap: 6px;
+    border: 1px solid ;
+    background-color: rgb(26, 9, 43);
+}
+
+ul, li{
+    display: flex;
+    color:white;
+    align-items: center;
+    margin: 0px;
+    padding: 0;
+    gap:6px
+    
+    
+   
+
+}
+.logo{
+    display: flex;
+    justify-content: flex-end;
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 80px;
+    height: 60px;
+}
+
+.container{
+
+    display:flex;
+    flex-direction: row;
+   
+
+}
+.img {
+
+  display: flex;
+  width: 500px;
+  height: 300px;
+  border:1px solid;
+
+
+    
+}
+
+
+
+
+
+.header{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: 1px solid;
+    
+
+}
+h1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.button{
+    background-color: red;
+    color:white;
+}
+h2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text2{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+
+.flex-container{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: row;
+    gap: 6px;
+    
+    
+}
+
+.flex-container2{
+    display:flex;
+    justify-content:center;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
